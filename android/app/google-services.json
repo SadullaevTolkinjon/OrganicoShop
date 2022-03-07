@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865921798785",
+    "project_id": "organicoui",
+    "storage_bucket": "organicoui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865921798785:android:6630a4ea5861f3c1857380",
+        "android_client_info": {
+          "package_name": "com.sadullaev.organico_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865921798785-0ff34ft03c14643rhh7rh91tjoqr2k3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyB_V9BFjl8LGDUpArCjfkoQM1F7yJSXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865921798785-0ff34ft03c14643rhh7rh91tjoqr2k3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
